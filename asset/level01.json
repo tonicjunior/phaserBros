@@ -1,0 +1,59 @@
+{
+    "plataformas": [
+        {"image": "grass01", "x": 0, "y": 560,"fimX":1780},
+        {"image": "grass01", "x": 420, "y": 470,"fimX":550},
+        {"image": "grass01", "x": 1026, "y": 470,"fimX":1126},
+        {"image": "grass01", "x": 1162, "y": 370,"fimX":1226},
+        {"image": "grass01", "x": 1298, "y": 470,"fimX":1398}
+    ],
+    "decoracao": [{"imagem": "decor","x":1060,"y":430,"frame":0,"id":1},
+    {"imagem": "decor","x":1300,"y":430,"frame":3,"id":2},
+    {"imagem": "decor","x":600,"y":520,"frame":4,"id":3},
+    {"imagem": "decor","x":155,"y":520,"frame":3,"id":4},
+    {"imagem": "decor","x":55,"y":520,"frame":1,"id":5},
+
+
+    {"imagem": "decor","x":850,"y":520,"frame":0,"id":6},
+    {"imagem": "decor","x":1450,"y":520,"frame":1,"id":7},
+    {"imagem": "decor","x":1230,"y":330,"frame":2,"id":8},
+    {"imagem": "decor","x":425,"y":520,"frame":3,"id":9},
+    {"imagem": "decor","x":430,"y":430,"frame":4,"id":10},
+
+
+    {"imagem": "decor","x":500,"y":430,"frame":2,"id":11},
+    {"imagem": "decor","x":1600,"y":520,"frame":1,"id":12},
+    {"imagem": "decor","x":1192,"y":330,"frame":4,"id":13},
+    {"imagem": "decor","x":300,"y":520,"frame":3,"id":14},
+    {"imagem": "decor","x":800,"y":520,"frame":0,"id":15}
+    ],
+     "moedas": [
+        {"image": "moeda2", "x": 300, "y": 530},
+         {"image": "moeda2", "x": 350, "y": 530},
+
+          {"image": "moeda2", "x": 450, "y": 420},
+            {"image": "moeda2", "x": 500, "y": 420},
+             {"image": "moeda2", "x": 550, "y": 420},
+
+              {"image": "moeda2", "x": 1126, "y": 430},
+              {"image": "moeda", "x": 1398, "y": 430},
+              {"image": "moeda", "x": 1226, "y": 430},
+
+              {"image": "moeda", "x": 1362, "y": 360},
+              {"image": "moeda", "x": 1398, "y": 370}, 
+
+              {"image": "moeda", "x": 1262, "y": 230},
+              {"image": "moeda", "x": 1162, "y": 230}
+            
+    ],
+
+      "spiders": [
+        {"image": "monstro", "x": 800, "y": 544, "veloc":100},
+         {"image": "monstro2", "x": 420, "y": 406,"veloc":170},
+         {"image": "monstro", "x": 1026, "y": 406,"veloc":100}
+         
+    ],	
+	   "porta": {"x": 231, "y": 560},
+	   "chave": {"x": 1192, "y": 300}
+
+
+}

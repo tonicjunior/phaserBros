@@ -1,0 +1,59 @@
+{
+
+
+
+    "plataformas": [
+        {"image": "grass01", "x": 0, "y": 560,"fimX":1780},
+        {"image": "grass01", "x": 0, "y": 430,"fimX":160},
+        {"image": "grass01", "x": 420, "y": 346,"fimX":560},
+        {"image": "grass01", "x": 588, "y": 518,"fimX":660},
+        {"image": "grass01", "x": 672, "y": 420,"fimX":760},
+        {"image": "grass01", "x": 126, "y": 262,"fimX":260},
+        {"image": "grass01", "x": 462, "y": 188,"fimX":560},
+        {"image": "grass01", "x": 798, "y": 164,"fimX":860}
+    ],
+      "decoracao": [
+
+    {"imagem": "decor","x":435,"y":306,"frame":2,"id":1},
+    {"imagem": "decor","x":680,"y":380,"frame":4,"id":2},
+    {"imagem": "decor","x":600,"y":478,"frame":0,"id":3},
+    {"imagem": "decor","x":155,"y":520,"frame":1,"id":4},
+    {"imagem": "decor","x":55,"y":520,"frame":3,"id":5},
+
+
+    {"imagem": "decor","x":850,"y":520,"frame":3,"id":6},
+    {"imagem": "decor","x":1450,"y":520,"frame":0,"id":7},
+    {"imagem": "decor","x":462,"y":148,"frame":4,"id":8},
+    {"imagem": "decor","x":425,"y":520,"frame":1,"id":9},
+    {"imagem": "decor","x":435,"y":306,"frame":2,"id":10},
+
+
+    {"imagem": "decor","x":10,"y":390,"frame":0,"id":11},
+    {"imagem": "decor","x":1600,"y":520,"frame":4,"id":12},
+    {"imagem": "decor","x":810,"y":220,"frame":3,"id":13},
+    {"imagem": "decor","x":300,"y":124,"frame":2,"id":14},
+    {"imagem": "decor","x":800,"y":520,"frame":1,"id":15}
+    ],
+    "moedas": [
+        {"image": "moeda","x": 231, "y": 524}, {"image": "moeda2","x": 273, "y": 524}, {"image": "moeda2","x": 315, "y": 524}, {"image": "moeda","x": 357, "y": 524},
+        {"image": "moeda","x": 819, "y": 524}, {"image": "moeda2","x": 861, "y": 524}, {"image": "moeda","x": 903, "y": 524}, {"image": "moeda","x": 945, "y": 524},
+        {"image": "moeda","x": 399, "y": 294}, {"image": "moeda2","x": 357, "y": 315}, {"image": "moeda2","x": 336, "y": 357},
+        {"image": "moeda2","x": 777, "y": 357}, {"image": "moeda2","x": 819, "y": 357}, {"image": "moeda","x": 861, "y": 357}, {"image": "moeda","x": 903, "y": 357},
+        {"image": "moeda2","x": 945, "y": 357}, {"image": "moeda2","x": 189, "y": 231}, {"image": "moeda2","x": 231, "y": 231},
+        {"image": "moeda","x": 525, "y": 147}, {"image": "moeda2","x": 567, "y": 147}, {"image": "moeda","x": 609, "y": 147}, {"image": "moeda","x": 651, "y": 147},
+        {"image": "moeda","x": 819, "y": 63}, {"image": "moeda2","x": 861, "y": 63}
+    ],
+    "spiders": [{"image": "monstro","x": 121, "y": 399,"veloc":100},
+     {"image": "monstro2","x": 800, "y": 362,"veloc":170},
+      {"image": "monstro2","x": 500, "y": 147,"veloc":100}],
+    "porta": {"x": 59, "y": 430},
+    "chave": {"x": 903, "y": 135}
+
+
+
+
+
+
+
+    
+}
